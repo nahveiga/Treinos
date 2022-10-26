@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>exercicio</title>
+</head>
+
+<body>
+    <h1>Olá, Mundo!</h1>
+    <h2>Antes de tudo.. estou estudando  então perdoe o site podre <3</h2>
+    <p>Esse é meu primeiro exercicio de HTML, estou aprendendo a criar sites...   </p>
+    <img src="C:\Users\ingli\OneDrive\Documentos\Estudos\HTML - CSS/picapau.jfif"
+    <br>
+    
+
+    <p>Como o combinado foi compartilharmos o que aprendemos, envio então esse projeto de site (mal feito, mas todo inicio é assim... né) feito em html  </p>
+  
+    <p>Foto de pokemon porque eu aprendi a por fotos (sem nenhum tipo de tamanho correto... só coloquei :)</p>
+    <img src="C:\Users\ingli\OneDrive\Documentos\Estudos\HTML - CSS/pokemon.jfif"
+</body>
+</html>
